@@ -15,8 +15,7 @@
 * the value of n is positive , negative or zero /
 */
 
-
-   int main(void)
+int main(void)
 
 {
 	int n;
