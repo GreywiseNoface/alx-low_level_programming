@@ -8,12 +8,11 @@
 * Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
 * the value of n is positive , negative or zero
-*
-* Main: Entry point
-*
+
 * Return: 0 indicates successful execution
 **/
 
+/*function main: Entry point*/
 int main(void)
 {
 	int n;
