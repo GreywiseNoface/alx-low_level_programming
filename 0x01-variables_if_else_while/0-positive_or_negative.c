@@ -11,7 +11,7 @@
 * the value of n is positive , negative or zero
 * Return: 0 indicates successful execution
 **/
-int main(void)
+int main(void) /*Entry point*/
 {
 	int n;
 
