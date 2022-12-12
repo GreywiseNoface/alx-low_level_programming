@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
-*function_main - prints a random interger and states whether zero or not
+* Main - Entry point
 * n: The random interger
 *
 * Description: A random value is assigned to n
