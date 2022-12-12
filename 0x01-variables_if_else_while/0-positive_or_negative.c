@@ -8,6 +8,10 @@
 * Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
 * the value of n is positive , negative or zero
+
+* Description for function main:
+* Assigns random numbers to n followed by determination of wherther
+* n equals, is greater than or less than zero
 **/
 
 int main(void)
@@ -27,4 +31,5 @@ int main(void)
 
 
 	return (0);
+\n
 }
