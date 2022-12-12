@@ -25,11 +25,11 @@ int main(void)
     else
       printf("%i is zero\n", n);
 
-	/* your code goes there */
+	
 	return (0);
+}
 
-
-				    
+		    
 
 
 
