@@ -3,7 +3,7 @@
 #include <time.h>
 
 /*
-* function_main: Program prints the interger and states whether it is positive or negative
+* function_main: Program prints the interger and states whether zero or not
 *
 * Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
