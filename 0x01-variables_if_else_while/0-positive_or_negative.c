@@ -2,15 +2,15 @@
 #include <stdlib.h>
 #include <time.h>
 
-/**
+/*
 * Program prints the interger and states whether it is positive or negative
 *
 * Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
 * the value of n is positive , negative or zero
-
+*
 * Return: 0 indicates successful execution
-*/
+**/
 
 /*function main: Entry point*/
 int main(void)
