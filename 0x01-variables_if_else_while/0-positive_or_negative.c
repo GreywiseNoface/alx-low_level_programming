@@ -3,8 +3,7 @@
 #include <time.h>
 
 /**
-*
-*Main - Entry point
+* main - Assigns random number
 *
 * Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
@@ -12,7 +11,7 @@
 *
 * Return: 0 indicates successful execution
 */
-int main(void) /*Entry point*/
+int main(void)
 {
 	int n;
 
