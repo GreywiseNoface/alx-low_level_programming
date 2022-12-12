@@ -5,7 +5,7 @@
 /*
 * Program prints the interger and states whether it is positive or negative
 *
-* Description: A random value is assigned to n.
+* Description: A random value is assigned to n
 * The conditional statements below print the interger and state whether
 * the value of n is positive , negative or zero
 **/
@@ -29,16 +29,3 @@ int main(void)
 	return (0);
 
 }
-
-
-		    
-
-
-
-					    	
-
-					    	
-
-
-
-	
