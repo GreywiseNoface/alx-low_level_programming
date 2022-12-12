@@ -5,7 +5,7 @@
 
 #include <time.h>
 
-typedef int grey;
+
 
 
 /**
