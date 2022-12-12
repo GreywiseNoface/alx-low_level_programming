@@ -11,8 +11,6 @@
 *
 * Return: 0 indicates successful execution
 **/
-
-/*function main: Entry point*/
 int main(void)
 {
 	int n;
